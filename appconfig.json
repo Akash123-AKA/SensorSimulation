@@ -1,0 +1,11 @@
+{
+    "HumiditySensor": {
+        "timeInterval": "100 ms"
+    },
+    "TemperatureSensor": {
+        "timeInterval": "500 ms"
+    },
+    "ProximitySensor": {
+        "timeInterval": "1000 ms"
+    }
+}
